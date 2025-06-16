@@ -54,7 +54,9 @@ weighted avg       0.85      0.87      0.83       294
 
 
 
-confusion_matrix=![image](https://github.com/user-attachments/assets/0c3d549e-74e6-4156-ad1a-ee2bdd457185)
+**confusion_matrix**
+
+![image](https://github.com/user-attachments/assets/0c3d549e-74e6-4156-ad1a-ee2bdd457185)
 
 
 
