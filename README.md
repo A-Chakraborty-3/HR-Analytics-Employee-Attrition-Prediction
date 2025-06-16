@@ -41,10 +41,10 @@ This project analyzes employee attrition data using Python and Power BI to ident
 
 
 
-                ** precision**    **recall**  **f1-score**   **support**
+            precision    recall  f1-score   support
 
-     ** False**      ** 0.88 **    ** 0.99 **    ** 0.93 **     ** 255 **
-    ** True **     ** 0.67 **    ** 0.10 **    ** 0.18 **      ** 39 **
+     False       0.88     0.99     0.93      255 
+     True        0.67     0.10     0.18       39 
 
 
 
